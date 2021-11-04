@@ -2,7 +2,7 @@
 
 ## **_Intro_**
 
-### Hello Sarthak Sachdeva here :) born on 11 Dec currently learning React loves to do web development and competitive Programming, and currently enrolled as a fresher pursuing bachelors in Computer science engineering and open to all PR to inprove the repo.
+### Hello Sarthak Sachdeva here :) born on 11 Dec currently learning React loves to do web development and competitive Programming, currently enrolled as a fresher pursuing bachelors in Computer science engineering and open to all PR to improve the repo.
 
 ---
 
