@@ -30,4 +30,8 @@
 
 ---
 
+### Website hosted on github pages for Task 3 (Calculator)
+
+[Task](https://sarthakk24.github.io/Alexa-developers/)
+
 ## **thank you !!**
