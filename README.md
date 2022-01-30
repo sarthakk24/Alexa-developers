@@ -30,12 +30,18 @@
 
 ---
 
-### Latest Task : Task 4 (Node js address directory)
+### **Latest Task** : Task 5 (Blog Site made using react, typescript and tailwind css)
 
 ---
 
-### Website hosted on github pages for Task 3 (Calculator)
+### **_Website hosted on netlify for task 5 (Blog Site)_**
 
-[Task](https://sarthakk24.github.io/Alexa-developers/)
+**_[Blog Site](https://typeblogger.netlify.app/)_**
+
+---
+
+### **Website hosted on github pages for Task 3 (Calculator)**
+
+**_[Task](https://sarthakk24.github.io/Alexa-developers/)_**
 
 ## **thank you !!**
